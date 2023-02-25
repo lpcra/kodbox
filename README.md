@@ -149,5 +149,5 @@ chmod -Rf 777 ./*
     - Chrome 
     - Firefox
     - Opera
-    - IE9+
+    - IE9+L
 > Tips: It can also run on a router, or your home NAS
